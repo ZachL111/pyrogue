@@ -1,0 +1,5 @@
+[project]
+name = "pyrogue"
+version = "0.1.0"
+description = "Generate deterministic dungeons with field of view and turn scheduling."
+requires-python = ">=3.11"
