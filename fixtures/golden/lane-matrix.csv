@@ -1,0 +1,28 @@
+id,focus,signal,slack,drag,confidence,score,lane
+l001,map entropy,35,33,6,25,143,watch
+l002,collision risk,35,34,6,55,175,watch
+l003,visibility,35,35,6,85,207,ship
+l004,turn pressure,35,36,18,25,113,hold
+l005,map entropy,35,37,18,55,145,watch
+l006,collision risk,35,38,18,85,177,watch
+l007,visibility,35,39,34,25,71,hold
+l008,turn pressure,35,40,34,55,103,hold
+l009,map entropy,35,41,34,85,135,watch
+l010,collision risk,60,42,6,25,211,ship
+l011,visibility,60,43,6,55,243,ship
+l012,turn pressure,60,44,6,85,275,ship
+l013,map entropy,60,45,18,25,181,watch
+l014,collision risk,60,46,18,55,213,ship
+l015,visibility,60,47,18,85,245,ship
+l016,turn pressure,60,48,34,25,139,watch
+l017,map entropy,60,32,34,55,137,watch
+l018,collision risk,60,33,34,85,169,watch
+l019,visibility,85,34,6,25,245,ship
+l020,turn pressure,85,35,6,55,277,ship
+l021,map entropy,85,36,6,85,309,ship
+l022,collision risk,85,37,18,25,215,ship
+l023,visibility,85,38,18,55,247,ship
+l024,turn pressure,85,39,18,85,279,ship
+l025,map entropy,85,40,34,25,173,watch
+l026,collision risk,85,41,34,55,205,watch
+l027,visibility,85,42,34,85,237,ship

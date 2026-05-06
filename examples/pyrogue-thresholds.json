@@ -1,0 +1,17 @@
+{
+  "repo": "pyrogue",
+  "thresholds": {
+    "signal": 2,
+    "slack": 2,
+    "confidence": 1,
+    "drag": 3,
+    "ship": 206,
+    "watch": 129
+  },
+  "terms": [
+    "turn pressure",
+    "map entropy",
+    "collision risk",
+    "visibility"
+  ]
+}

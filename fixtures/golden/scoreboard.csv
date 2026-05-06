@@ -1,0 +1,97 @@
+id,focus,signal,slack,drag,confidence,score,lane,kind,invariant
+g001,turn pressure,90,77,36,104,330,ship,baseline,monotonic-signal
+g002,map entropy,111,12,44,71,185,watch,edge,drag-penalty
+g003,collision risk,81,52,28,56,238,ship,recovery,confidence-floor
+g004,visibility,113,75,22,99,409,ship,negative,lane-boundary
+g005,turn pressure,89,19,20,39,195,watch,baseline,monotonic-signal
+g006,map entropy,36,28,42,99,101,hold,edge,drag-penalty
+g007,collision risk,57,70,12,91,309,ship,recovery,confidence-floor
+g008,visibility,115,24,41,48,203,watch,negative,lane-boundary
+g009,turn pressure,60,38,15,31,182,watch,baseline,monotonic-signal
+g010,map entropy,80,48,24,27,211,ship,edge,drag-penalty
+g011,collision risk,49,20,30,30,78,hold,recovery,confidence-floor
+g012,visibility,37,44,14,36,156,watch,negative,lane-boundary
+g013,turn pressure,79,58,28,43,233,ship,baseline,monotonic-signal
+g014,map entropy,59,33,37,51,124,hold,edge,drag-penalty
+g015,collision risk,53,23,43,103,126,hold,recovery,confidence-floor
+g016,visibility,97,20,5,47,266,ship,negative,lane-boundary
+g017,turn pressure,79,56,9,67,310,ship,baseline,monotonic-signal
+g018,map entropy,73,42,12,81,275,ship,edge,drag-penalty
+g019,collision risk,74,72,15,93,340,ship,recovery,confidence-floor
+g020,visibility,78,55,39,103,252,ship,negative,lane-boundary
+g021,turn pressure,39,14,32,70,80,hold,baseline,monotonic-signal
+g022,map entropy,67,66,30,55,231,ship,edge,drag-penalty
+g023,collision risk,41,59,9,98,271,ship,recovery,confidence-floor
+g024,visibility,31,58,21,38,153,watch,negative,lane-boundary
+g025,turn pressure,74,46,29,98,251,ship,baseline,monotonic-signal
+g026,map entropy,99,57,13,90,363,ship,edge,drag-penalty
+g027,collision risk,115,65,7,47,386,ship,recovery,confidence-floor
+g028,visibility,82,71,5,30,321,ship,negative,lane-boundary
+g029,turn pressure,113,77,27,26,325,ship,baseline,monotonic-signal
+g030,map entropy,88,12,39,29,112,hold,edge,drag-penalty
+g031,collision risk,79,17,26,35,149,watch,recovery,confidence-floor
+g032,visibility,43,57,42,42,116,hold,negative,lane-boundary
+g033,turn pressure,64,10,9,50,171,watch,baseline,monotonic-signal
+g034,map entropy,34,24,15,102,173,watch,edge,drag-penalty
+g035,collision risk,66,33,41,46,121,hold,recovery,confidence-floor
+g036,visibility,42,75,13,66,261,ship,negative,lane-boundary
+g037,turn pressure,77,29,22,80,226,ship,baseline,monotonic-signal
+g038,map entropy,98,43,28,92,290,ship,edge,drag-penalty
+g039,collision risk,68,53,32,102,248,ship,recovery,confidence-floor
+g040,visibility,101,25,36,69,213,ship,negative,lane-boundary
+g041,turn pressure,33,49,39,54,101,hold,baseline,monotonic-signal
+g042,map entropy,90,63,42,97,277,ship,edge,drag-penalty
+g043,collision risk,78,38,24,37,197,watch,recovery,confidence-floor
+g044,visibility,32,28,17,97,166,watch,negative,lane-boundary
+g045,turn pressure,100,25,15,89,294,ship,baseline,monotonic-signal
+g046,map entropy,94,61,36,46,248,ship,edge,drag-penalty
+g047,collision risk,50,47,6,29,205,watch,recovery,confidence-floor
+g048,visibility,32,77,14,25,201,watch,negative,lane-boundary
+g049,turn pressure,114,60,40,28,256,ship,baseline,monotonic-signal
+g050,map entropy,115,19,34,34,200,watch,edge,drag-penalty
+g051,collision risk,31,71,32,41,149,watch,recovery,confidence-floor
+g052,visibility,80,64,12,49,301,ship,negative,lane-boundary
+g053,turn pressure,108,63,24,101,371,ship,baseline,monotonic-signal
+g054,map entropy,82,51,11,45,278,ship,edge,drag-penalty
+g055,collision risk,72,62,27,65,252,ship,recovery,confidence-floor
+g056,visibility,115,70,36,79,341,ship,negative,lane-boundary
+g057,turn pressure,52,76,42,91,221,ship,baseline,monotonic-signal
+g058,map entropy,68,12,26,101,183,watch,edge,drag-penalty
+g059,collision risk,35,17,40,68,52,hold,recovery,confidence-floor
+g060,visibility,66,22,7,53,208,ship,negative,lane-boundary
+g061,turn pressure,41,62,13,96,263,ship,baseline,monotonic-signal
+g062,map entropy,32,15,17,36,79,hold,edge,drag-penalty
+g063,collision risk,84,29,21,96,259,ship,recovery,confidence-floor
+g064,visibility,105,38,24,88,302,ship,negative,lane-boundary
+g065,turn pressure,75,10,27,45,134,watch,baseline,monotonic-signal
+g066,map entropy,107,34,9,28,283,ship,edge,drag-penalty
+g067,collision risk,83,48,44,24,154,watch,recovery,confidence-floor
+g068,visibility,30,58,42,27,77,hold,negative,lane-boundary
+g069,turn pressure,51,30,21,33,132,watch,baseline,monotonic-signal
+g070,map entropy,109,54,33,40,267,ship,edge,drag-penalty
+g071,collision risk,54,68,41,48,169,watch,recovery,confidence-floor
+g072,visibility,74,43,25,100,259,ship,negative,lane-boundary
+g073,turn pressure,43,33,19,44,139,watch,baseline,monotonic-signal
+g074,map entropy,31,30,17,64,135,watch,edge,drag-penalty
+g075,collision risk,73,66,39,78,239,ship,recovery,confidence-floor
+g076,visibility,53,52,9,90,273,ship,negative,lane-boundary
+g077,turn pressure,47,12,38,100,104,hold,baseline,monotonic-signal
+g078,map entropy,91,65,12,67,343,ship,edge,drag-penalty
+g079,collision risk,73,24,21,52,183,watch,recovery,confidence-floor
+g080,visibility,67,76,27,95,300,ship,negative,lane-boundary
+g081,turn pressure,68,69,11,35,276,ship,baseline,monotonic-signal
+g082,map entropy,72,68,25,95,300,ship,edge,drag-penalty
+g083,collision risk,33,56,34,87,163,watch,recovery,confidence-floor
+g084,visibility,61,67,40,44,180,watch,negative,lane-boundary
+g085,turn pressure,35,75,44,27,115,hold,baseline,monotonic-signal
+g086,map entropy,113,11,6,23,253,ship,edge,drag-penalty
+g087,collision risk,68,17,9,26,169,watch,recovery,confidence-floor
+g088,visibility,93,22,12,32,226,ship,negative,lane-boundary
+g089,turn pressure,109,27,36,39,203,watch,baseline,monotonic-signal
+g090,map entropy,76,67,29,47,246,ship,edge,drag-penalty
+g091,collision risk,107,20,27,99,272,ship,recovery,confidence-floor
+g092,visibility,82,34,6,43,257,ship,negative,lane-boundary
+g093,turn pressure,73,43,18,63,241,ship,baseline,monotonic-signal
+g094,map entropy,37,15,26,77,103,hold,edge,drag-penalty
+g095,collision risk,58,39,10,89,253,ship,recovery,confidence-floor
+g096,visibility,116,53,4,99,425,ship,negative,lane-boundary
