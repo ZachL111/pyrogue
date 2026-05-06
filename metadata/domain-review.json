@@ -1,0 +1,73 @@
+{
+  "repo": "pyrogue",
+  "language": "Python",
+  "category": "Game engines",
+  "goal": "Generate deterministic dungeons with field of view and turn scheduling.",
+  "review_model": {
+    "terms": [
+      "turn pressure",
+      "map entropy",
+      "collision risk",
+      "visibility"
+    ],
+    "lanes": [
+      "ship",
+      "watch",
+      "hold"
+    ],
+    "score": "signal * 2 + slack + confidence - drag * 3",
+    "purpose": "surface the domain-specific cases that need the most careful review"
+  },
+  "cases": [
+    {
+      "name": "baseline",
+      "focus": "turn pressure",
+      "signal": 53,
+      "slack": 41,
+      "drag": 28,
+      "confidence": 57,
+      "score": 120,
+      "lane": "watch"
+    },
+    {
+      "name": "stress",
+      "focus": "map entropy",
+      "signal": 60,
+      "slack": 41,
+      "drag": 32,
+      "confidence": 85,
+      "score": 150,
+      "lane": "ship"
+    },
+    {
+      "name": "edge",
+      "focus": "collision risk",
+      "signal": 48,
+      "slack": 21,
+      "drag": 30,
+      "confidence": 67,
+      "score": 94,
+      "lane": "hold"
+    },
+    {
+      "name": "recovery",
+      "focus": "visibility",
+      "signal": 80,
+      "slack": 52,
+      "drag": 25,
+      "confidence": 88,
+      "score": 225,
+      "lane": "ship"
+    },
+    {
+      "name": "stale",
+      "focus": "turn pressure",
+      "signal": 86,
+      "slack": 50,
+      "drag": 13,
+      "confidence": 80,
+      "score": 263,
+      "lane": "ship"
+    }
+  ]
+}

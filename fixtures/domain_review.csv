@@ -1,0 +1,6 @@
+name,focus,signal,slack,drag,confidence,score,lane
+baseline,turn pressure,53,41,28,57,120,watch
+stress,map entropy,60,41,32,85,150,ship
+edge,collision risk,48,21,30,67,94,hold
+recovery,visibility,80,52,25,88,225,ship
+stale,turn pressure,86,50,13,80,263,ship

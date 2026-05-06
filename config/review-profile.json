@@ -1,0 +1,29 @@
+{
+  "repo": "pyrogue",
+  "language": "Python",
+  "category": "Game engines",
+  "case_count": 5,
+  "score_formula": "signal * 2 + slack + confidence - drag * 3",
+  "lane_thresholds": {
+    "ship": 140,
+    "watch": 105
+  },
+  "read_order": [
+    "README.md",
+    "fixtures/domain_review.csv",
+    "metadata/domain-review.json",
+    "examples/pyrogue-walkthrough.md"
+  ],
+  "first_question": "Does turn pressure still dominate the review result?",
+  "second_question": "Is collision risk being penalized hard enough before visibility is trusted?",
+  "highest_case": {
+    "name": "stale",
+    "focus": "turn pressure",
+    "score": 263
+  },
+  "lowest_case": {
+    "name": "edge",
+    "focus": "collision risk",
+    "score": 94
+  }
+}
